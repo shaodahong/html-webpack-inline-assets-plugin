@@ -1,0 +1,20 @@
+{
+  "name": "html-webpack-inline-assets-plugin",
+  "version": "0.0.1",
+  "description": "Based on html-webpack-plugin inline your resources",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaodahong/html-webpack-inline-assets-plugin.git"
+  },
+  "author": "shaodahong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaodahong/html-webpack-inline-assets-plugin/issues"
+  },
+  "homepage": "https://github.com/shaodahong/html-webpack-inline-assets-plugin#readme",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "preferGlobal": true
+}
