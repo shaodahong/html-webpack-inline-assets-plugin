@@ -16,5 +16,10 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "escape-string-regexp": "^1.0.5",
+    "slash": "^1.0.0",
+    "source-map-url": "^0.4.0"
+  }
 }
